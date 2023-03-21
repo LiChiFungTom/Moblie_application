@@ -39,9 +39,8 @@ Licenses & developer account
 Instance of the class "android.content.Context"
 Provide the connection to android system which execute application
 
-As the content is greatly reduced on a dedicated moblie website compared
-to the desktop website, the completed version of the websites can behaves
-acessed by the user with the link provided
+As the content is greated dedicated mobile websites compared desktop website,
+completed version of the website can be accessed by the user with link provide
 
 
 
