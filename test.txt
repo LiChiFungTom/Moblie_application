@@ -1,34 +1,47 @@
 Methods of mobile application development
 
-Native apps 
+Native app
     developing apps which support 
-    ultimate user experience
+    support ultimate user experience 
+        entertainment moblie app(phone)
 
 moblie web apps
     Need to work in real time
     Does not need to access the native layer
     Not performance stressed
 
-    Need to work in real time
+
+
+
+moblie web app
+    need to make in real time
     Does not need to access native layer
-    Not performance stressed
+    no performance stressed
+   
 
 Hybrid apps
-    productivity app
-    utility apps
+    productivity app : used for accomplishing a task and producing information
+    utility apps: reminders, calculator
     enterprise apps
+
+Hybrid app
+    productivity app : used for accomplishing a task and producing information
+    utility app: reminders . calculator
+    enterprise app
+
+Cost of Moblie application development
 
 Hardware:
     a powerful PC with multiple monitors
-    e.g mac, you will not able physically to buile the ios
+    e.g mac, you will not able physically to build the ios
         implementation of mobile application without it
 
 software 
     software development kit and integrated development enviornment 
-    are needed application development
-
+    are needed application development e.g:
     android: android studio
     IOS: xCode
+
 
 Licenses & developer account
    you need to register developer account to publish your moblie app
@@ -86,5 +99,3 @@ Moblie web apps
        Disadvantage
         not in app store
         cannot use all moblie fectures
-
-
