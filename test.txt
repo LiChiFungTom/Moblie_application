@@ -18,6 +18,28 @@ Hybrid apps
     utility apps
     enterprise apps
 
+Hardware:
+    a powerful PC with multiple monitors
+    e.g mac, you will not able physically to buile the ios
+        implementation of mobile application without it
+
+software 
+    software development kit and integrated development enviornment 
+    are needed application development
+
+    android: android studio
+    IOS: xCode
+
+Licenses & developer account
+   you need to register developer account to publish your moblie app
+   (native, hybrid , not web-based)with official market places
+   android: google play
+   ios: apple app store 
+
+
+
+
+
 Adaptive Moblie website
     Automatically adjust your current website when 
     viewed on mobile device
@@ -48,5 +70,18 @@ Adaptive Moblie website
       Disadvantage:
         No use of native device functionality
 
-        
+       Moblie web apps
 
+       we can use HTML, css , Javascript to make a web page looks,
+       and behaves like a native moblie app
+
+
+       Advantage:
+        a website that can behaves like an app
+        work across platforms
+
+       Disadvantage
+        not in app store
+        cannot use all moblie fectures
+
+        
