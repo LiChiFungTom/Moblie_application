@@ -1,0 +1,52 @@
+Methods of mobile application development
+
+Native apps 
+    developing apps which support 
+    ultimate user experience
+
+moblie web apps
+    Need to work in real time
+    Does not need to access the native layer
+    Not performance stressed
+
+    Need to work in real time
+    Does not need to access native layer
+    Not performance stressed
+
+Hybrid apps
+    productivity app
+    utility apps
+    enterprise apps
+
+Adaptive Moblie website
+    Automatically adjust your current website when 
+    viewed on mobile device
+    
+    E.g modiflying the layout , sizing , spacing depend on the screen size
+    to make it more mobile-friendly
+
+    Advantage
+    Maintain only one website/webpage
+    Quick and least expensive to implement
+    Always up-to-date
+
+    Maintain only one website/wabapps
+    Quick and least expensive to implement
+    Always up-to-date
+
+    Disadvantage
+        security control
+        avaliability , not avliable at play market/ app store
+
+    Deicated Mobile Websites
+      A company make one website for desktop screen, another is for mobile phone
+
+      advantage
+        Good website performance
+        More perfected UI
+
+      Disadvantage:
+        No use of native device functionality
+
+        
+
