@@ -36,7 +36,12 @@ Licenses & developer account
    android: google play
    ios: apple app store 
 
+Instance of the class "android.content.Context"
+Provide the connection to android system which execute application
 
+As the content is greatly reduced on a dedicated moblie website compared
+to the desktop website, the completed version of the websites can behaves
+acessed by the user with the link provided
 
 
 
@@ -60,7 +65,7 @@ Adaptive Moblie website
         security control
         avaliability , not avliable at play market/ app store
 
-    Deicated Mobile Websites
+Deicated Mobile Websites
       A company make one website for desktop screen, another is for mobile phone
 
       advantage
@@ -70,8 +75,7 @@ Adaptive Moblie website
       Disadvantage:
         No use of native device functionality
 
-       Moblie web apps
-
+Moblie web apps
        we can use HTML, css , Javascript to make a web page looks,
        and behaves like a native moblie app
 
@@ -84,4 +88,4 @@ Adaptive Moblie website
         not in app store
         cannot use all moblie fectures
 
-        
+
