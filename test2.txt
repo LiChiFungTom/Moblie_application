@@ -1,0 +1,64 @@
+Hybrid App development:
+
+1. WebView app (run it in WebView and open APIs wiht JavaScript)
+    The HTML,CSS and JavaScript code base runs in an 
+    internal browser(call WebView)that is wrapped in 
+    a native app Some native APIs are exposed to JavaScript
+    through this wrapper e.g Cordova,Trigger.io
+
+2. Compiled hybrid app (支持this 2 type language)
+    The code is written in one language(C# or JavaScript)
+    and gets compiled to native code for each supported
+    platform
+
+Hybrid Mobile App vs Mobile Website
+
+Advantage:
+    - Advanced offline capabilities
+    
+    - Native access to some device and operating system features
+
+Disadvantage:
+    - Maintainability
+        Not always up-to-date as need to update installation on device
+
+hybrid Mobile App vs Native App:
+
+Advantage:
+    - Developer can user existing web skills
+        One code base for multiple platforms
+        Reduced development time and cost
+
+Disadvantage:
+    Not all device and native features(fully) 
+    
+
+
+3. installed for using Cordova to develop mobile applications
+that executes on Android platform :
+    - Node.js
+
+    - Android SDKs
+
+    - Cordova CLI(still need SDKs of android SDk and IOS SDK)
+
+NPM :
+    - is a installed on your computer whten you install Node.js
+    
+NPM consists of three distinct components:
+    - Npm Website
+        use the website to discover packages, set up profiles, manage other
+        aspects of your npm
+    
+    - Command Line Interface
+        the CLI runs from a terminal, and interact with npm
+
+    - Registry
+        the registry is a large public database of JavaScript software
+
+    Package:
+        package in Node.js is a folder that contains all the
+        necrssary file and described by a file "package.json"
+    
+    Module:
+        Modules are JavaScript libraries that can perform specific functionalities
