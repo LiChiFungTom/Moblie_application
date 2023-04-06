@@ -62,3 +62,70 @@ NPM consists of three distinct components:
     
     Module:
         Modules are JavaScript libraries that can perform specific functionalities
+
+ Cordova Plugins
+    Cordova essentially wraps a WebView of your HTML, CSS and JavaScript in a
+    native application
+        - the application does not support many device features
+
+React Native
+    Only JavaScript is required during the development Not HTML and CSS
+
+Advantages
+    - JavaScript
+        You can use the existing JavaScript knowledge to build native mobile apps
+    
+    - Native components
+        React Native apps look,feelm and perform like other platforms specific apps
+    
+    - Code sharing
+        You can share most of your code on different platforms
+
+    - Community
+        The Community around React and React Native is large, and
+        you will able to find solution that you need
+
+React vs React Native
+    React 
+        - A JavaScript library which is responsible for building a 
+          hierarchy of UI components
+    
+    React Native
+        - Based on React
+            A JavaScript framework for writing real, natively rendering
+            Android and IOS applications 
+    
+    MVC is a popular software architecture pattern for designing mobile applications
+        - model
+            The object that holds your application data and defines how to
+            manipulate it
+        
+        - View 
+            The objects that are in charge of the visual respresentation of the
+            Model and the controls the user can interact with
+
+        - Controller
+            The controller is the mediator that coordinates all the work
+
+    React Natie Projcet Creation 
+        - React Native CLI
+        - Expo CLI
+
+List the three basic concepts of React Native 
+    - components
+        components are reusable and can be used in anywhere in user interface
+    - Props 
+        The idea behind props is that you can make a single component that can
+        be used in different places in your app
+    - State
+        there is data that should support dynamically change within a component during
+        the lifetime of the app, state can be used
+
+Props vs State
+    Props
+        - Varibales
+        - Read-only
+    
+    State
+        - Also variable
+        - allow to be change by component in response to user action,network responses
