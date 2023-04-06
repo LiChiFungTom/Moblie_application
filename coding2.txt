@@ -1,0 +1,34 @@
+HTML Table:
+    <table border ='1'>
+        <caption style ="font-size:2em">Course List </caption>
+        <thead>
+            <tr>
+                <th>Course code</th>
+                <th>Course title</th>
+                <th>Credit</th>
+                <th>Category</th>
+            </tr>
+        </thead>
+        <tbody id="courselist">
+        </tbody>
+    </table>
+
+JavaScript:retrieved from the JSON file "courses.json"
+
+    var courselist = document.getElementByid("courselist");
+    var row = courselist.insertRow();
+
+    var codeCell = row.insertCell();
+    codeCell.innerHTML = course.code;
+
+    var titleCell = row.insertCell();
+    titleCell.innerHTML = courses.title;
+
+    var creditCell = row.insertCell();
+    creditCell.innerHTML = course.credit;
+
+    var categoryCell = row.insertCell();
+    category.innerHTML = row.category;
+
+    var feeCell = row.insertCell();
+    feeCell.innerHTML = course.credit * 1250; 
