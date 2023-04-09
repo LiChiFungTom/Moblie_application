@@ -63,12 +63,12 @@ NPM consists of three distinct components:
     Module:
         Modules are JavaScript libraries that can perform specific functionalities
 
- Cordova Plugins
+ 4. Cordova Plugins
     Cordova essentially wraps a WebView of your HTML, CSS and JavaScript in a
     native application
         - the application does not support many device features
 
-React Native
+5. React Native
     Only JavaScript is required during the development Not HTML and CSS
 
 Advantages
@@ -85,7 +85,7 @@ Advantages
         The Community around React and React Native is large, and
         you will able to find solution that you need
 
-React vs React Native
+6. React vs React Native
     React 
         - A JavaScript library which is responsible for building a 
           hierarchy of UI components
@@ -111,7 +111,7 @@ React vs React Native
         - React Native CLI
         - Expo CLI
 
-List the three basic concepts of React Native 
+7. List the three basic concepts of React Native 
     - components
         components are reusable and can be used in anywhere in user interface
     - Props 
