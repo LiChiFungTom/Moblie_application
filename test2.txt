@@ -22,6 +22,16 @@ Disadvantage:
     - Maintainability
         Not always up-to-date as need to update installation on device
 
+Apache Cordova:
+    Cordova is an open source hybrid mobile development framework
+
+Advantage:
+    - Enables developers to use HTML,CSS,JavaScript skill sets to create a mobile application
+    - Greatly speed up the development time
+
+Disadvantage:
+    - WebView application is slower in performance consideration than native applications
+
 hybrid Mobile App vs Native App:
 
 Advantage:
