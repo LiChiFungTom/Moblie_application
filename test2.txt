@@ -22,6 +22,16 @@ Disadvantage:
     - Maintainability
         Not always up-to-date as need to update installation on device
 
+Apache Cordova:
+    Cordova is an open source hybrid mobile development framework
+
+Advantage:
+    - Enables developers to use HTML,CSS,JavaScript skill sets to create a mobile application
+    - Greatly speed up the development time
+
+Disadvantage:
+    - WebView application is slower in performance consideration than native applications
+
 hybrid Mobile App vs Native App:
 
 Advantage:
@@ -41,6 +51,10 @@ that executes on Android platform :
     - Android SDKs
 
     - Cordova CLI(still need SDKs of android SDk and IOS SDK)
+
+    Note:
+        The Cordova CLI provide only the cordova portion of the tools that are
+        necessary for hybrid app development
 
 NPM :
     - is a installed on your computer whten you install Node.js
@@ -120,6 +134,25 @@ Advantages
     - State
         there is data that should support dynamically change within a component during
         the lifetime of the app, state can be used
+
+Props:
+    Conclusion
+        - With props, UI components such as "Text","Image", and "View" components,
+        a wide variety of static screens can be built
+
+        - However, to make the app change over time, you need to use"State"
+
+State:
+    There are two type of ata that control a conponent:
+        Props:
+            Props are set by the parent and they are fixed throughout the lifetime
+            of a component
+        State:
+            For data that is able to be modified, we have to use state
+    
+    should support dynamically change within a component during the lifetime of the app
+    ,state can be used
+
 
 Props vs State
     Props
