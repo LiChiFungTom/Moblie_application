@@ -1,0 +1,12 @@
+1. what is Hook
+    - Hooks are functions that allow you "hook into" React state
+    i.e., function component incorporate with state
+    鉤子是允許你“鉤入”React 狀態的函數
+    即，功能組件與狀態結合
+
+
+2. what is useState?
+    - It is used inside a function component to add a "state variable" to it
+    它在功能組件內部使用，以向其添加“狀態變量
+    
+    - A HooK
