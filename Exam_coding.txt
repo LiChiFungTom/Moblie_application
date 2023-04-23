@@ -91,3 +91,64 @@ JavaScript:retrieved from the JSON file "courses.json"
 
     var feeCell = row.insertCell();
     feeCell.innerHTML = course.credit * 1250; 
+
+
+4. Parse Local JSON File ( ReactNatie )
+
+    import React from 'react';
+    import {Text, View } from 'react-native';
+    import fruit from './fruit.json';
+    
+    const ParseLocalJsonExample = () => {
+    return (
+        <View style={{ padding: 10 }}>
+        <Text style={{ fontSize: 18, fontFamily: 'monospace' }}>
+            Title: {fruit.title}
+        </Text>
+        <Text style={{ fontSize: 15, fontFamily: 'serif' }}>
+            Description: {fruit.description}
+        </Text>
+        {fruit.fruits.map((item) => {
+            return (
+            <Text style={{ color: 'blue' }} >
+                {item.id}, {item.name}, {item.color}
+            </Text>
+            );
+        })}
+        </View>
+    );
+    };
+    export default ParseLocalJsonExample;
+
+5.  Fetch JSON from URL
+
+
+    import React, { useState } from 'react';
+    import { Button, FlatList, Text, View } from 'react-native';
+
+    const FetchJsonExample = () => {
+    const [data, setData] = useState([]);
+    const onPressHandler = () => {
+        fetch('https://hkmulab.github.io/json/fruit.json')
+        .then((response) => response.json())
+        .then((json) => setData(json));
+    }
+
+    return (
+        <View style={{ padding: 10 }}>
+            <Button
+            onPress={ () => onPressHandler() }
+            title="Connect"
+            />
+            <Text>{data.title}</Text>
+            <Text>{data.description}</Text>
+            <FlatList
+            data={data.fruits}
+            keyExtractor={({ id }, index) => id}
+            renderItem={({ item }) => (
+                <Text>{item.id}, {item.name}, {item.color}</Text>
+            )}
+            />
+        </View>
+    );};
+    export default FetchJsonExample;
