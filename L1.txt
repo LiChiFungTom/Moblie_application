@@ -1,0 +1,83 @@
+1. There have three basic mobile application types
+    Native Apps:
+        - Development 
+            -  supported for the target platform language and tool
+                - Android apps
+                    IDE : Android studio
+                    language: JAVA/Kotlin
+        - Distribution
+            - Android apps : Google play
+            - IOS apps : App Store
+    
+- Advantage
+    - Apply the latest technology supported by the platform
+    應用平台支持的最新技術
+
+    - Able to be execute in offline mode
+    能夠在離線模式下執行
+
+- Disadvantage
+    - Not cross platform
+    不跨平台
+
+    - Higher cost 成本較高
+
+    Mobile Web Apps:
+        - Development
+            Standard web technology : HTML, CSS, JavaScript
+    
+- Advantage
+    - Cross-platform mobile apps
+    - No installation
+    - Maintainability
+
+- Disadvantage
+    - Not support native access
+    - Decline of mobile browsing    手機瀏覽量下降
+
+
+    Hybrid Apps
+        - Development
+            - Deployed by third party hybrid app framework
+                - Cordova , react Native
+            - Compile the web application and transforms it into a native app
+            編譯 Web 應用程序並將其轉換為本機應用程序
+- Advantage
+    - Cross- platform
+    - Access to the device ( GPS )
+    - Quicker to build
+
+- Disadvantage
+    - Performance is tied to the quality of the platform’s browser
+    性能與平台瀏覽器的質量有關
+
+    - Access native features via plugins
+    通過插件訪問本機功能
+
+2. List the cost of Mobile Application Development
+    
+    - Hardware
+        - A powerful PC with multiple monitors:
+            Mac, you will not able to phtsically build the IOS implementation of mobileappication without it
+    
+    - Software
+
+        - SDK ( Software Development Kit )
+            Android SDK , IOS SDK
+
+        - Integrated Development Enviornment ( IDE)
+            Android: android studio
+            IOS : Xcode
+
+        - General purposes
+            Source Code/ text Editors
+            File transfer and remote shell
+
+        - Package Managers
+            NPM
+            Chocolatey  
+
+    - Licenses and Developer Accounts
+        - You need to register developer accounts in order to publish your mobile apps with official market places
+            Android : Google play
+            IOS :   Apple App Store
