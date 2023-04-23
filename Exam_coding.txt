@@ -51,8 +51,12 @@ EditText
 Button
 
 
+2. NPM installation
+    npm install 
+    npm install -g cordova
 
-2. Json coding 
+
+3. Json coding 
 HTML Table:
     <table border ='1'>
         <caption style ="font-size:2em">Course List </caption>
