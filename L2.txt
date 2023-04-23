@@ -1,0 +1,20 @@
+1. what is Essential Concepts of Android Development? 開發的基本概念
+    - Activity
+        - Represents a basic and self-contained operation in an app
+        表示應用程序中的基本且獨立的操作
+    
+    - Intent 意圖
+        - Denotes an intention to do something   表示打算做某事
+        - surfing to a URL and dialing a number
+        瀏覽一個 URL 並撥打一個號碼
+    
+    - Manifest file 清單文件
+        - Called AndroidManifest.xml
+    
+    - Resources 資源
+        - XML and binary files included in and used by an app 
+        應用程序中包含和使用的 XML 和二進製文件
+    
+    - Android package
+        - It is the form for deployment to an emulator for testing or to a real Android device
+        它是部署到模擬器進行測試或部署到真實 Android 設備的形式
