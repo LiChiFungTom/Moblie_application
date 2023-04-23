@@ -1,0 +1,48 @@
+1. List three options on development Mobile Web tool
+    Adaptive mobile websites
+        - Automatically adjust your current website when viewed on mobile device    在移動設備上查看時自動調整您當前的網站
+            - modifying the layout, sizing, and spacing depends on the screen size to make it more mobile-friendly
+            根據屏幕尺寸修改佈局、大小和間距，使其更適合移動設備
+
+- Advantage
+    - Maintain only one website/webpage
+    - Always up-to-date
+
+- Disvantage
+    - Security control
+    - Not available at play market/app store
+
+
+    Dedicated mobile websites
+        - Makes one website for desktop screen, another for mobile phone
+        為桌面屏幕製作一個網站，為手機製作另一個網站
+
+- Advantage
+    - Good website performance
+        - Separate websites are particular design for different devices
+        單獨的網站是針對不同設備的特定設計
+
+- Disvantage
+    - Maintain two websites
+    - No use of native device functionality
+
+
+    Mobile web apps
+        - We can use HTML, CSS and JavaScript to make a web page looks and behaves like a native mobile app
+        我們可以使用 HTML、CSS 和 JavaScript 使網頁看起來和行為都像本機移動應用程序
+
+- Advantage
+    
+    - A website that can behave like an app
+    一個可以像應用程序一樣運行的網站
+
+    - Works across platforms
+    跨平台工作
+
+- Disvantage
+    - Not in app stores
+    - cannot use all mobile features
+
+2. what is the different in Mobike Web Apps and Native Applications
+    - Offline users
+    - Accessing the file systems
