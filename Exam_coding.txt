@@ -56,7 +56,11 @@ Button
     npm install -g cordova
 
 
-3. Json coding 
+3.  CSS
+    @media screen and (max-width: px) 
+
+
+4. Json coding 
 HTML Table:
     <table border ='1'>
         <caption style ="font-size:2em">Course List </caption>
@@ -93,7 +97,9 @@ JavaScript:retrieved from the JSON file "courses.json"
     feeCell.innerHTML = course.credit * 1250; 
 
 
-4. Parse Local JSON File ( ReactNatie )
+
+
+5. Parse Local JSON File ( ReactNatie )
 
     import React from 'react';
     import {Text, View } from 'react-native';
@@ -120,7 +126,7 @@ JavaScript:retrieved from the JSON file "courses.json"
     };
     export default ParseLocalJsonExample;
 
-5.  Fetch JSON from URL
+6.  Fetch JSON from URL
 
 
     import React, { useState } from 'react';
