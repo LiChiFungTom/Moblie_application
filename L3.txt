@@ -1,0 +1,46 @@
+1. what is Hierarchy
+    - defined using a hierarchy of ViewGroup and View object
+
+    ViewGroup
+        - An invisible container that organizes multiple child views and possibly other view groups
+        組織多個子視圖和可能的其他視圖組的不可見容器
+
+    View 
+        - Anything that you see is a view
+
+2. what is LinearLayout?
+    - LinearLayout puts all its child elements into a single column or row    
+        - vertical
+        - horizontal
+
+3. what is TableLayout
+    - TableLayout arranges its children into rows and columns
+    將其子項排列成行和列
+
+4. what is FrameLayout
+    - It is a layout manager which draws all child elements on top of each other
+    它是一個佈局管理器，可以將所有子元素繪製在彼此之上
+
+5. List all of the View
+    - Button
+        - ToggleButton
+        - ImageButton
+        - CheckBox
+        - RadioButton
+    
+    - Text View
+        - TextView
+        - EditText
+        - AutoCompleteTextView
+        - MultiAutoCompleteTextView
+    
+    - Image views
+
+6. what is Layout Attributes?
+    - android:layout_width
+    - android:layout_height
+        - wrap_content
+        - match_parent
+
+7  TableLayout exmaple:  P. 26
+8. FrameLayout exmaple: P. 28
