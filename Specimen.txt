@@ -1,0 +1,55 @@
+D.ii
+    <LinearLayout
+        android:layout_width="match_paraent"
+        android:layout_height="wrap_paranet">
+
+    <TextView 
+        android:layout_width="wrap_paranet"
+        android:layout_height="wrap_paranet"
+        android:text="Enter number(0 - 99)" />
+
+    <EditText
+        android:layout_width="match_paraent"
+        android:layout_height="wrap_paranet"
+        android:id="@+id/inputEditText" />
+
+    </LinearLayout>
+
+    <button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_paranet"
+        android:id="@+id/guessButton"
+        android:text="GUESS" />
+
+    <button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_paranet"
+        android:id="@+id/restartButton"
+        android:text="RESTART" />
+
+d.iii
+    Line 2 : This method is called when Android creates an activity ,for setting up the user interface
+    Line 3 : set the page View 
+    Line 4 : define what should the button do when the button clicked
+
+Q4 d.
+    @media screen and (max width = 960px)
+    
+    table caption{
+        font-size: 1.5em;
+    }
+    table td:: before{
+        flog: left;
+    }
+    tr:nth-child(odd) {
+        background-color: #999999;
+    }
+
+Q5.ii
+    - import {Text,View,Button,TextInput,StyleSheeet} from 'react-native';
+
+    iii
+    - import {useState} from 'react';
+    
+    iv 
+    - const GUessNumberApp = () => {
