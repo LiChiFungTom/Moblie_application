@@ -1,0 +1,38 @@
+1. what is the different in Hybrid Mobile App and Mobile Website
+    - Advantage
+        - Native access to some device and operating system features
+        本機訪問某些設備和操作系統功能
+
+        - Advanced offline capabilities
+        高級離線功能
+    - Disadvantage
+        - Not always up-to-date as need to update installation on device
+        並不總是最新的，因為需要更新設備上的安裝
+
+2. what is the different in Hybrid Mobile App and Native App
+    - Advantage 
+        - One code base for multiple platforms
+        - Reduced development time and cost
+
+    - Disadvantage
+        - Not all device and native features (fully) supported
+
+3. which tool need to Installation before using cordova?
+    - Node.js
+    - Native SDKs
+    - Cordova CLI
+
+4. list the distinct components of NPM 由三個不同的組件組
+    - NPM Website
+        - need to discover packages, set up profiles
+    
+    - Command Line Interface
+        - run from terminal
+    - Registry
+        - for large public database
+    
+    - packages
+        - necessary file -> package.json
+    - Module
+        - JavaScript libraries
+    
