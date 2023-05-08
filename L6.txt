@@ -1,4 +1,10 @@
-1. React vs React Native
+1 React Native – Advantages
+    - JavaScript 
+    - Native components
+    - Code sharing
+    - Community
+
+2. React vs React Native
     React 
         - A JavaScript library which is responsible for building a 
           hierarchy of UI components
@@ -24,35 +30,10 @@
         - React Native CLI
         - Expo CLI
 
-2. List the three basic concepts of React Native 
-    - components
-        components are reusable and can be used in anywhere in user interface
+3. List the three basic concepts of React Native 
+    - components 
     - Props 
-        The idea behind props is that you can make a single component that can
-        be used in different places in your app
-    - State
-        there is data that should support dynamically change within a component during
-        the lifetime of the app, state can be used
-
-
-Props:
-    Conclusion
-        - With props, UI components such as "Text","Image", and "View" components,
-        a wide variety of static screens can be built
-
-        - However, to make the app change over time, you need to use"State"
-
-State:
-    There are two type of ata that control a conponent:
-        Props:
-            Props are set by the parent and they are fixed throughout the lifetime
-            of a component
-        State:
-            For data that is able to be modified, we have to use state
-    
-    should support dynamically change within a component during the lifetime of the app
-    ,state can be used
-
+    - State  
 
 Props vs State
     Props
@@ -62,3 +43,15 @@ Props vs State
     State
         - Also variable
         - allow to be change by component in response to user action,network responses
+
+4. Name any two files and two folders in a React Native project. 
+
+- Files:
+    - App.tsx
+    - index.js
+    - package.json
+    
+- Folders:
+    - node_modules/
+    - android/
+    - ios/
