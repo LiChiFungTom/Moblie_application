@@ -1,4 +1,11 @@
-1. what is Essential Concepts of Android Development? 開發的基本概念
+1. Suggest two factors commonly affecting the choice of API level.
+    - a later API level provides more functionality
+    較晚的 API 級別提供更多功能
+
+    - The target distribution of the Android devices of the application. 
+    應用程序的 Android 設備的目標分佈。
+
+2. list all Essential Concepts of Android Development? 開發的基本概念
     - Activity
         - Represents a basic and self-contained operation in an app
         表示應用程序中的基本且獨立的操作
@@ -18,3 +25,37 @@
     - Android package
         - It is the form for deployment to an emulator for testing or to a real Android device
         它是部署到模擬器進行測試或部署到真實 Android 設備的形式
+
+3. what is activity_main.xml
+
+    - In Android app development, user interfaces are usually constructed in XML layout files, 
+    using the graphical layout editor or by editing the XML
+    在 Android 應用程序開發中，用戶界面通常在 XML 佈局文件中構建，使用圖形佈局編輯器或通過編輯 XML
+
+4. list all Elements of an Android Application
+    - Context
+        - Provide the connection to the Android system which executes the application
+    
+    - App components
+       Activities
+       Services
+       Broadcast receivers
+       Content providers
+    
+    - App resources
+
+5. Android other stuffs
+    - Storage
+        - Package data files with your application
+            - For things that do not change, such as icons or help files
+        
+    - Network
+        - Android devices will generally be Internet-ready
+
+    - Multimedia
+        - Android devices support the multimedia capabilities to play back 
+    
+    - Location
+        - Android devices are capable to access to location providers, such as GPS and Wifi
+    
+    - Phone Services
