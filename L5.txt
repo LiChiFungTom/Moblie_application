@@ -1,4 +1,8 @@
-1. what is the different in Hybrid Mobile App and Mobile Website
+1. Specify two approaches of hybrid app development
+    - WebView app
+    - Compiled hybrid app
+
+1. what is the different in Hybrid Mobile App vs Mobile Website
     - Advantage
         - Native access to some device and operating system features
         本機訪問某些設備和操作系統功能
@@ -36,3 +40,7 @@
     - Module
         - JavaScript libraries
     
+5. list NPM consists of three distinct components
+    - NPM Website
+    - Command Line Interface (CLI)
+    - Registry
