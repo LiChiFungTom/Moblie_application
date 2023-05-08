@@ -10,8 +10,9 @@
             - IOS apps : App Store
     
 - Advantage
-    - Apply the latest technology supported by the platform
-    應用平台支持的最新技術
+    - Access to the latest API's released on that platform
+        - Apply the latest technology supported by the platform
+        應用平台支持的最新技術
 
     - Able to be execute in offline mode
     能夠在離線模式下執行
@@ -22,9 +23,9 @@
 
     - Higher cost 成本較高
 
-    Mobile Web Apps:
-        - Development
-            Standard web technology : HTML, CSS, JavaScript
+Mobile Web Apps:
+    - Development
+        Standard web technology : HTML, CSS, JavaScript
     
 - Advantage
     - Cross-platform mobile apps
@@ -36,12 +37,13 @@
     - Decline of mobile browsing    手機瀏覽量下降
 
 
-    Hybrid Apps
-        - Development
-            - Deployed by third party hybrid app framework
-                - Cordova , react Native
-            - Compile the web application and transforms it into a native app
-            編譯 Web 應用程序並將其轉換為本機應用程序
+Hybrid Apps
+    - Development
+        - Deployed by third party hybrid app framework
+            - Cordova , react Native
+        - Compile the web application and transforms it into a native app
+        編譯 Web 應用程序並將其轉換為本機應用程序
+
 - Advantage
     - Cross- platform
     - Access to the device ( GPS )
@@ -77,7 +79,7 @@
             NPM
             Chocolatey  
 
-    - Licenses and Developer Accounts
-        - You need to register developer accounts in order to publish your mobile apps with official market places
-            Android : Google play
-            IOS :   Apple App Store
+- Licenses and Developer Accounts
+    - You need to register developer accounts in order to publish your mobile apps with official market places
+        Android : Google play
+        IOS :   Apple App Store
