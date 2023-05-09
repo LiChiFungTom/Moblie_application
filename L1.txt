@@ -60,7 +60,7 @@ Hybrid Apps
     
     - Hardware
         - A powerful PC with multiple monitors:
-            Mac, you will not able to phtsically build the IOS implementation of mobileappication without it
+            Mac, you will not able to physically build the IOS implementation of mobileappication without it
     
     - Software
 
