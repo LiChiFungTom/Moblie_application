@@ -9,6 +9,7 @@
         - A JavaScript library which is responsible for building a 
           hierarchy of UI components
         負責構建 UI 組件層次結構的 JavaScript 庫
+
     React Native
         - Based on React
             A JavaScript framework for writing real, natively rendering
@@ -18,13 +19,16 @@
         - model
             The object that holds your application data and defines how to
             manipulate it
-        
+            保存您的應用程序數據並定義如何操作它的對象
+
         - View 
-            The objects that are in charge of the visual respresentation of the
+            The objects that are in charge of the visual representation of the
             Model and the controls the user can interact with
+            負責模型可視化表示的對像以及用戶可以與之交互的控件
 
         - Controller
             The controller is the mediator that coordinates all the work
+            控制器是協調所有工作的中介
 
     React Natie Projcet Creation 
         - React Native CLI
