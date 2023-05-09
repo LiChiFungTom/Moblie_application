@@ -8,7 +8,7 @@
     React 
         - A JavaScript library which is responsible for building a 
           hierarchy of UI components
-    
+        負責構建 UI 組件層次結構的 JavaScript 庫
     React Native
         - Based on React
             A JavaScript framework for writing real, natively rendering
