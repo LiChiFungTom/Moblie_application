@@ -39,8 +39,3 @@
         - necessary file -> package.json
     - Module
         - JavaScript libraries
-    
-5. list NPM consists of three distinct components
-    - NPM Website
-    - Command Line Interface (CLI)
-    - Registry
